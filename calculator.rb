@@ -2,7 +2,7 @@
  puts "first_number"
 num1 = gets.chomp().to_f 
 puts "enter operator"
-op = get.chomp()
+op = gets.chomp()
 puts "second_number"
 num2 = gets.chomp().to_f 
 
