@@ -6,5 +6,6 @@ op = get.chomp()
 puts "second_number"
 num2 = gets.chomp().to_f 
 
-if op == + 
+if op == "+"
   puts (num1+num2)
+elsif op == "-"
